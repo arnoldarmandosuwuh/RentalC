@@ -53,5 +53,6 @@ Public Class FormUser
         DGUser.ReadOnly = True
 
         KoneksiSQL.Close()
+
     End Sub
 End Class

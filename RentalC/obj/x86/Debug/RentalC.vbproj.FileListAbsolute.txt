@@ -1,0 +1,35 @@
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\bin\Debug\RentalC.exe
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\bin\Debug\RentalC.pdb
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\bin\Debug\RentalC.xml
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\obj\x86\Debug\RentalC.Form1.resources
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\obj\x86\Debug\RentalC.Resources.resources
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\obj\x86\Debug\RentalC.vbproj.GenerateResource.Cache
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\obj\x86\Debug\RentalC.exe
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\obj\x86\Debug\RentalC.xml
+C:\Users\PAPSI\AppData\Local\Temporary Projects\RentalC\obj\x86\Debug\RentalC.pdb
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.exe
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.xml
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.pdb
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\bin\Debug\RentalC.exe
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\bin\Debug\RentalC.pdb
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\bin\Debug\RentalC.xml
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputUser.resources
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.Resources.resources
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.vbproj.GenerateResource.Cache
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputAnggota.resources
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputKoleksi.resources
+D:\Dieky\VB Lanjut C 2018\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputLokasi.resources
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.exe
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.xml
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.pdb
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\bin\Debug\RentalC.exe
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\bin\Debug\RentalC.pdb
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\bin\Debug\RentalC.xml
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.vbprojResolveAssemblyReference.cache
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputAnggota.resources
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputKoleksi.resources
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputLokasi.resources
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.FormInputUser.resources
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.Resources.resources
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.vbproj.GenerateResource.Cache
+D:\Materi Asdos\VB Lanjut Sore 2019\RentalC\RentalC\obj\x86\Debug\RentalC.FormUser.resources
